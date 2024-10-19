@@ -1,0 +1,9 @@
+archive
+references
+preference_optimization_train_dataset
+preference_optimization_val_dataset
+SmolLM_RL.py
+gec_smollm_finetuned
+BareBones_SmolLM-135M.pt
+.DS_Store
+.vscode
